@@ -1,0 +1,1 @@
+If you want to get descriptions of the tasks, head to: https://www.w3resource.com/javascript-exercises/
